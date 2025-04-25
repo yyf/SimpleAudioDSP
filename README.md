@@ -1,4 +1,4 @@
 # Audio DSP Basics 
 
 ## Files
-- AudioDSP.ipynb
+- Signal_generator.ipynb

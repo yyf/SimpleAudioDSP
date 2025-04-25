@@ -1,2 +1,6 @@
 # Ignore WAV files
 *.wav
+
+# Ignore Python virtual environment
+venv/
+.venv/
