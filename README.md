@@ -2,7 +2,7 @@
 
 ## Files
 - Signal_generator.ipynb
-- Basic_filters.ipynb
+- Filters.ipynb
 - Dynamic_range_control.ipynb
 - Channel_management.ipynb
-- Reverberation.ipynb
+- Reverberation_echo.ipynb
