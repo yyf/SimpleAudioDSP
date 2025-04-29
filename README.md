@@ -6,3 +6,4 @@
 - Dynamic_range_control.ipynb
 - Channel_management.ipynb
 - Reverberation_echo.ipynb
+- Equalization.ipynb
