@@ -7,3 +7,7 @@
 - Channel_management.ipynb
 - Reverberation_echo.ipynb
 - Equalization.ipynb
+- Binauralization.ipynb
+- Noise_reduction.ipynb
+- Sampling.ipynb
+- Mixing.ipynb
