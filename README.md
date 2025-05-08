@@ -4,6 +4,7 @@
 - BigO.ipynb
 - Binauralization.ipynb
 - Channel_management.ipynb
+- DataStructure.ipynb
 - Dynamic_range_control.ipynb
 - Equalization.ipynb
 - Filters.ipynb
