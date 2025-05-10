@@ -14,6 +14,7 @@
 - Reverberation_echo.ipynb
 - Sampling.ipynb
 - Signal_generator.ipynb
+- VoiceActivityDetection.ipynb
 
 ## Data
 - Data/mit_kemar_normal_pinna.sofa (https://www.sofacoustics.org/data/database_sofa_0.6/mit/)
