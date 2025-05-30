@@ -1,6 +1,8 @@
 # Ignore WAV files
 *.wav
 *.mp4
+*.flac
+*.ogg
 
 # Ignore Python virtual environment
 venv/
