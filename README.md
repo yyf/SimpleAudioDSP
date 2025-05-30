@@ -1,12 +1,14 @@
 # Audio DSP Basics 
 
 ## Files
+- Beamforming.ipynb
 - BigO.ipynb
 - Binauralization.ipynb
 - Channel_management.ipynb
 - Data_structure.ipynb
 - Dynamic_range_control.ipynb
 - Equalization.ipynb
+- FileIO.ipynb
 - Filters.ipynb
 - Loudness.ipynb
 - Mixing.ipynb
