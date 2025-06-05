@@ -1,4 +1,5 @@
 # Audio DSP Basics 
+Simple starting templates for common audio DSP tasks 
 
 ## Files
 - Beamforming.ipynb
@@ -11,6 +12,7 @@
 - FileIO.ipynb
 - Filters.ipynb
 - Loudness.ipynb
+- MFCC.ipynb
 - Mixing.ipynb
 - Noise_reduction.ipynb
 - Reverberation_echo.ipynb
