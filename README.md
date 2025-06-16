@@ -21,6 +21,7 @@ Simple starting templates for common audio DSP tasks
 - Source_separation.ipynb
 - STFT.ipynb
 - Voice_activity_detection.ipynb
+- Wavelet.ipynb
 
 ## Data
 - Data/mit_kemar_normal_pinna.sofa (https://www.sofacoustics.org/data/database_sofa_0.6/mit/)
