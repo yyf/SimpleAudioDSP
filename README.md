@@ -20,6 +20,7 @@ Simple starting templates for common audio DSP tasks
 - Signal_generator.ipynb
 - Source_separation.ipynb
 - STFT.ipynb
+- StreamIO.ipynb
 - Voice_activity_detection.ipynb
 - Wavelet.ipynb
 
