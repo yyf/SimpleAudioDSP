@@ -15,6 +15,7 @@ Simple starting templates for common audio DSP tasks
 - MFCC.ipynb
 - Mixing.ipynb
 - Noise_reduction.ipynb
+- Panning.ipynb
 - Reverberation_echo.ipynb
 - Sampling.ipynb
 - Signal_generator.ipynb
