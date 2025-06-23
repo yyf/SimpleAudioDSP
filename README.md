@@ -7,6 +7,7 @@ Simple starting templates for common audio DSP tasks
 - Binauralization.ipynb
 - Channel_management.ipynb
 - Data_structure.ipynb
+- DDSP.ipynb
 - Dynamic_range_control.ipynb
 - Equalization.ipynb
 - FileIO.ipynb
